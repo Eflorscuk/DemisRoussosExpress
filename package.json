@@ -1,0 +1,24 @@
+{
+  "name": "sitedemmis",
+  "version": "1.0.0",
+  "description": "This is a small front project to show images of Demmis Roussous. And also a simple tribute to the same.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "JS",
+    "JavaScript",
+    "EcmaScript",
+    "Express"
+  ],
+  "author": "Evandro Ferreira Florscuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "express-handlebars": "^6.0.6"
+  },
+  "devDependencies": {
+    "jest": "^28.1.2"
+  }
+}
